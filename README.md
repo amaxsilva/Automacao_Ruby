@@ -6,7 +6,7 @@ E também da própria documentação dos frameworks.
 
 ## Configuração:
 
-1. [Configuração Ruby](https://github.com/amaxsilva/Automaçao_Ruby/blob/master/tests/ConfiguracaoRuby/configuracao_ruby.md);
+1. [Configuração Ruby](https://github.com/amaxsilva/Automacao_Ruby/tree/master/tests/ConfiguracaoRuby/configuracao_ruby.md);
 3. [Configuração Android](https://github.com/amaxsilva/Automaçao_Ruby/blob/master/tests/ConfiguracaoAndroid/configuracao_android.md);
 
 ## Básico:
