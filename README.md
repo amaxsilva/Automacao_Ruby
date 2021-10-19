@@ -16,7 +16,7 @@ E também da própria documentação dos frameworks.
 
 ## BDD com:
 
-1. [Comandos Cucumber](https://github.com/amaxsilva/Automaçao_Ruby/blob/master/tests/Cucumber/comandos_cucumber.md);
+1. [Comandos Cucumber](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/Cucumber/comandos_cucumber.md);
 
 ## Automaçao web:
 
