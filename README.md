@@ -8,11 +8,12 @@ E também da própria documentação dos frameworks.
 
 1. [Configuração Ruby](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/ConfiguracaoRuby/configuracao_ruby.md);
 3. [Configuração Android](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/ConfiguracaoAndroid/configuracao_android.md);
-
+4. [Configuração Android com Appium](https://github.com/amaxsilva/instalacao_Appium_Teste_mobile);
 ## Básico:
 
 1. [Ruby Básico](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/Ruby/comandos_ruby.md);
 2. [Rspec Básico](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/Rspec/comandos_rspec.md);
+3. [Buscando elementos](https://github.com/amaxsilva/Search-Element-Ruby);
 
 ## BDD com:
 
