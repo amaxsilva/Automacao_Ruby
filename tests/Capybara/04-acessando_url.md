@@ -24,4 +24,4 @@ url = page.current_url
 puts url
 ```
 
-**Vamos para o próximo post** [Buscando elementos](https://github.com/brunobatista25/best_archer/blob/master/tests/Capybara/05-buscando_elementos.md);
+**Vamos para o próximo post** [Buscando elementos](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/Capybara/05-buscando_elementos.md);

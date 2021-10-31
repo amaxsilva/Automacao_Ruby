@@ -1,16 +1,16 @@
 # Configuração
 
-Depois de ter instalado os [Drivers](https://github.com/brunobatista25/best_archer/blob/master/tests/Capybara/02-instalando_drivers.md)
+Depois de ter instalado os [Drivers](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/Capybara/02-instalando_drivers.md)
 
 Agora vamos configurar nosso projeto ruby com capybara
 
-Primeiro vc precisa ter instalado o [Bundler](https://github.com/brunobatista25/best_archer/blob/master/tests/Bundler/01-introducao_bundler.md)
+Primeiro vc precisa ter instalado o [Bundler](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/Bundler/01-introducao_bundler.md)
 
 # Configuração
 
 Agora vamos configurar nosso projeto ruby com capybara
 
-Primeiro vc precisa ter instalado o [Bundler](https://github.com/brunobatista25/best_archer/blob/master/tests/Bundler/01-introducao_bundler.md)
+Primeiro vc precisa ter instalado o [Bundler](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/Bundler/01-introducao_bundler.md)
 
 
 Agora crie um arquivo  chamado Gemfile sem nenhuma extensão, agora dentro do arquivo coloque os seguintes conteúdos:
@@ -141,4 +141,4 @@ Capybara.configure do |config|
 end
 ```
 
-**Vamos para o próximo post** [Acessando Url](https://github.com/brunobatista25/best_archer/blob/master/tests/Capybara/04-acessando_url.md);
+**Vamos para o próximo post** [Acessando Url](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/Capybara/04-acessando_url.md);

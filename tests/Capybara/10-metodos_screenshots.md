@@ -29,4 +29,4 @@ Salvar uma captura de tela da página.
 page.save_screenshot
 ```
 
-**Vamos para o próximo post** [Web responsiva com Capybara](https://github.com/brunobatista25/best_archer/blob/master/tests/Capybara/11-web_responsiva_capybara.md);
+**Vamos para o próximo post** [Web responsiva com Capybara](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/Capybara/11-web_responsiva_capybara.md);

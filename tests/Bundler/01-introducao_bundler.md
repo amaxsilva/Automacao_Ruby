@@ -30,4 +30,4 @@ $ bundle install
 $ git add Gemfile Gemfile.lock
 
 
-1. [Comandos Bundler](https://github.com/brunobatista25/best_archer/blob/master/tests/Bundler/comandos_bundler.md);
+1. [Comandos Bundler](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/Bundler/comandos_bundler.md);

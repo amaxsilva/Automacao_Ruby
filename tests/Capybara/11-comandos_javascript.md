@@ -29,4 +29,4 @@ Acione qualquer evento no elemento atual, por exemplo, eventos de mouseover ou f
 page.find('element_name').trigger(:mouseover)  
 ```
 
-**Vamos para o próximo post** [Comandos Web responsiva com Capybara](https://github.com/brunobatista25/best_archer/blob/master/tests/Capybara/12-web_responsiva_capybara.md);
+**Vamos para o próximo post** [Comandos Web responsiva com Capybara](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/Capybara/12-web_responsiva_capybara.md);

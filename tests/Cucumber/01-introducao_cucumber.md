@@ -64,7 +64,7 @@ Ex: fazerLogin.feature
 - Fácil manutenção de templates.
 
 
-### **Próximo post:** [Instalação do Cucumber](https://github.com/brunobatista25/best_archer/blob/master/tests/Cucumber/02-instalacao_cucumber.md);
+### **Próximo post:** [Instalação do Cucumber](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/Cucumber/02-instalacao_cucumber.md);
 
 
 ## Referências:

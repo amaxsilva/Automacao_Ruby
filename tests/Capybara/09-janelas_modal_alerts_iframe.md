@@ -239,4 +239,4 @@ within_table 'random' do
 end
 ```
 
-**Vamos para o próximo post** [Métodos de screenchots](https://github.com/brunobatista25/best_archer/blob/master/tests/Capybara/10-metodos_screenshots.md);
+**Vamos para o próximo post** [Métodos de screenchots](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/Capybara/10-metodos_screenshots.md);

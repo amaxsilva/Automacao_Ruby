@@ -53,4 +53,4 @@ class Home < SitePrism::Page
 end
 ```
 
-**Vamos para o próximo post** [Setando Url](https://github.com/brunobatista25/best_archer/blob/master/tests/SitePrism/03-setando_urls.md);
+**Vamos para o próximo post** [Setando Url](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/SitePrism/03-setando_urls.md);

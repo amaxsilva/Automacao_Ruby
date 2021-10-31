@@ -1,6 +1,6 @@
 # Given(Dado) When(Quando) Then(Então) And(e) But(mas)
 
-Depois de ter feito a [Instalação do Cucumber](https://github.com/brunobatista25/best_archer/blob/master/tests/Cucumber/02-instalacao_cucumber.md);
+Depois de ter feito a [Instalação do Cucumber](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/Cucumber/02-instalacao_cucumber.md);
 
 Agora vamos por em prática!
 
@@ -163,7 +163,7 @@ Então("eu verifico se o login foi realizado.") do
 end
 ```
 
-Vamos para o próximo post [Background](https://github.com/brunobatista25/best_archer/blob/master/tests/Cucumber/04-background.md);
+Vamos para o próximo post [Background](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/Cucumber/04-background.md);
 
 ## Referências:
 	

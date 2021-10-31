@@ -33,7 +33,7 @@ Funcionalidade: Suporte de vários sites
      Então eu deveria ver "Seu artigo foi publicado".
 ```
 
-Para uma alternativa menos explícita ao background, verifique os ganchos com Tagged [Hooks](https://github.com/brunobatista25/best_archer/blob/master/tests/Cucumber/05-hooks.md);
+Para uma alternativa menos explícita ao background, verifique os ganchos com Tagged [Hooks](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/Cucumber/05-hooks.md);
 
 ## Boas práticas para usar Background
 
@@ -51,7 +51,7 @@ Mantenha seus cenários curtos e não tenha muitos.
 Se a seção de fundo tiver escorregado na tela, você deve pensar em usar etapas de nível superior ou dividir o arquivo * .features em dois.
 
 
-Vamos para o próximo post [Hooks](https://github.com/brunobatista25/best_archer/blob/master/tests/Cucumber/05-hooks.md); 
+Vamos para o próximo post [Hooks](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/Cucumber/05-hooks.md); 
 
 ## Referências:
 	

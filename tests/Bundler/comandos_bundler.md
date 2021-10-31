@@ -9,7 +9,7 @@ $ bundle install
 ```
 
 EXISTE MAIS UMAS OPÇÕES COMPLEMENTARES PARA O BUNDLE INSTALL
-1. [Opções extras do bundle install](https://github.com/brunobatista25/best_archer/blob/master/tests/Bundler/02-opcoes_extras_bundle_install.md);
+1. [Opções extras do bundle install](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/Bundler/02-opcoes_extras_bundle_install.md);
 
 BUNDLE UPDATE:
 Atualize suas gemas para as últimas versões disponíveis
@@ -19,7 +19,7 @@ $ bundle update
 ```
 EXISTE MAIS UMAS OPÇÕES COMPLEMENTARES PARA O BUNDLE UPDATE
 
-2. [Opções extras do bundle update](https://github.com/brunobatista25/best_archer/blob/master/tests/Bundler/03-opcoes_extras_bundle_update.md);
+2. [Opções extras do bundle update](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/Bundler/03-opcoes_extras_bundle_update.md);
 
 BUNDLE PACKAGE:
 
@@ -50,6 +50,6 @@ $ bundle config [name [value]]
 ```
 EXISTE MAIS UMAS OPÇÕES COMPLEMENTARES PARA O BUNDLE CONFIG
 
-3. [Opções extras do bundle config](https://github.com/brunobatista25/best_archer/blob/master/tests/Bundler/04-comandos_extras_bundle_config.md);
+3. [Opções extras do bundle config](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/Bundler/04-comandos_extras_bundle_config.md);
 
 MAIS EM BREVE...

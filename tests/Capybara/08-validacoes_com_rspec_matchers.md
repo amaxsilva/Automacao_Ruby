@@ -145,4 +145,4 @@ expect(find('#zone')).to match_xpath('elemento')
 -------------------------------------------------------------------------------
 
 
-**Vamos para o próximo post** [Janelas, Modal, Alerts e Iframe](https://github.com/brunobatista25/best_archer/blob/master/tests/Capybara/09-janelas_modal_alerts_iframe.md);
+**Vamos para o próximo post** [Janelas, Modal, Alerts e Iframe](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/Capybara/09-janelas_modal_alerts_iframe.md);

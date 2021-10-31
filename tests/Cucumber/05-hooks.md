@@ -159,7 +159,7 @@ end
 
 Este hooks será executado apenas uma vez; após o suporte ter sido carregado, mas antes que os recursos sejam carregados. Você pode usar esse hooks para estender o Cucumber, por exemplo, você pode afetar a forma como os recursos são carregados ou registrar formatadores personalizados programaticamente.
 
-Vamos para o próximo post [Chamando steps dentro de step definitions](https://github.com/brunobatista25/best_archer/blob/master/tests/Cucumber/06-chamando_steps.md); 
+Vamos para o próximo post [Chamando steps dentro de step definitions](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/Cucumber/06-chamando_steps.md); 
 
 ## Referências:
 	

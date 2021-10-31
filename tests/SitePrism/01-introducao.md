@@ -8,4 +8,4 @@ O SitePrism oferece uma DSL simples, limpa e semântica para descrever seu site 
 
 Encontre a documentação bonita aqui: http://rdoc.info/gems/site_prism/frames
 
-**Vamos para o próximo post** [Instalando o SitePrism](https://github.com/brunobatista25/best_archer/blob/master/tests/Capybara/02-instalando_siteprism.md);
+**Vamos para o próximo post** [Instalando o SitePrism](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/Capybara/02-instalando_siteprism.md);
