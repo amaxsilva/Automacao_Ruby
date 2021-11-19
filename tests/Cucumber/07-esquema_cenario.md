@@ -47,7 +47,7 @@ Então, ao executar a primeira linha do nosso exemplo:
 
 ```
 Exemplos :
-   | Comece | coma | esquerda | 
+   | start  | coma | esquerda | 
    |  12    |  5   |  7       |
 ```
 
@@ -57,7 +57,7 @@ O cenário que realmente é executado é:
 Cenário Destaque : comer 
   Dado que há 12 pepinos       # <start> substituídos por 12 
   Quando eu como 5 pepinos             # <comer> substituído por 5 
-  Então eu deveria ter 7 pepinos     # <à esquerda> substituídos por 7
+  Então eu deveria ter 7 pepinos     # <esquerda> substituídos por 7
   ```
   
 ## Referências:
