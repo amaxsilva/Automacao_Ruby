@@ -1,7 +1,7 @@
 # Automação Ruby
 Repositório criado para reunir todos os comandos das principais ferramentas de automação em Ruby.
 
-Então eu estou juntando referências de vários posts que encontro na internet juntamente com os artigos do Bruno Batista
+Então eu estou juntando referências de vários posts que encontro na internet juntamente com os artigos do Bruno Batista e repositorios abandonados
 E também da própria documentação dos frameworks.
 
 ## Configuração:
@@ -23,8 +23,7 @@ E também da própria documentação dos frameworks.
 
 1. [Comandos Capybara](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/Capybara/comandos_capybara.md);
 2. [Comandos SitePrism](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/SitePrism/comandos_siteprism.md);
-3. [Comandos Watir](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/Watir/comandos_watir.md); (EM BREVE...)
-4. [Comandos SeleniumWebDriver](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/SeleniumWebdriver/comandos_selenium_webdriver.md); (EM BREVE...)
+3. [Comandos SeleniumWebDriver](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/SeleniumWebdriver/comandos_selenium_webdriver.md);
 
 ## Automação de Api:
 
@@ -33,34 +32,23 @@ E também da própria documentação dos frameworks.
 
 ## Mobile:
 
-1. [Comandos Appium](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/Appium/comandos_appium.md); (EM BREVE...)
-2. [Comandos Calabash](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/Calabash/comandos_calabash.md); (EM BREVE...)
+1. [Comandos Appium](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/Appium/comandos_appium.md)
 
 ## Outros:
 
 1. [Comandos Git](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/%20Git/comandos_git.md);
 2. [Comandos Bundler](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/Bundler/01-introducao_bundler.md);
-3. [Comandos Rake](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/Rake/comandos_rake.md); (EM BREVE...)
-
-## DEVOPS
-
-1. [Comandos Codeship](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/Codeship/comandos_codeship.md);
-2. [Comandos Jenkis](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/Jenkins/comandos_jenkins.md); (EM BREVE...)
-3. [Comandos CircleCi](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/CircleCi/comandos_circleci.md); (EM BREVE...)
-4. [Comandos TravisCi](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/Travisci/comandos_travis.md); (EM BREVE...)
-5. [Comandos GitLabCi](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/Gitlabci/comandos_gitlabci.md); (EM BREVE...)
-6. [Comandos Docker](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/Docker/comandos_docker.md); (EM BREVE...)
 
 ## TDD com:
-1. [Comandos Rspec](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/Rspec/comandos_rspec.md); (EM BREVE...)
+1. [Comandos Rspec](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/Rspec/comandos_rspec.md);
 
 ## Projetos prontos para exemplo:
 
-1. [Projeto Cucumber + Capybara + SitePrism + Ruby](https://github.com/amaxsilva/capybara_cucumber);
+1. [Projeto Cucumber + Capybara + SitePrism + Ruby](https://github.com/amaxsilva/poc_dojo/tree/adicionando_po);
 
-2. [Projeto Rspec + Capybara + SitePrism + Ruby](https://github.com/amaxsilva/capybara_rspec);
+2. [Projeto Rspec + Capybara + SitePrism + Ruby](https://github.com/amaxsilva/Curso_Ruby/tree/master/07-projetofinal/tests);
 
-3. [Projeto Httparty + Cucumber + Ruby](https://github.com/amaxsilva/test_api_httparty_cucumber);
+3. [Projeto Httparty + Cucumber + Ruby](https://github.com/amaxsilva/Poc_Httparty);
 
 ## Sites para fazer automação Web/API/Mobile:
 
@@ -75,15 +63,3 @@ LINK PARA DOCUMENTAÇÃO DA API: https://app.apiary.io/apidetarefas
 4. [Site com o APK para treinar Automação Mobile](https://apkpure.com/br/app);
 
 Quem quiser ajudar a contribuir nesse projeto será bem vindo!
-
-Qualquer coisa meu email é brunobatista101@gmail.com
-
-Até mais jovens!
-
-
-erros windows utf 8
-painel de controle
-regiao
-aba administrativo
-alterar localidade do sistema
-marcar checkbox Beta: usar unicode UTF-8 para suporte de linguagem mundial
