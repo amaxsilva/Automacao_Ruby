@@ -9,6 +9,7 @@ E também da própria documentação dos frameworks.
 1. [Configuração Ruby](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/ConfiguracaoRuby/configuracao_ruby.md);
 3. [Configuração Android](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/ConfiguracaoAndroid/configuracao_android.md);
 4. [Configuração Android com Appium](https://github.com/amaxsilva/instalacao_Appium_Teste_mobile);
+
 ## Básico:
 
 1. [Ruby Básico](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/Ruby/comandos_ruby.md);
@@ -27,8 +28,7 @@ E também da própria documentação dos frameworks.
 
 ## Automação de Api:
 
-1. [Comandos Httparty](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/Httparty/comandos_httparty.md); (EM BREVE...)
-2. [Teste de Contrato com Json-Schema](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/JsonSchema/comandos_json_schema.md); (EM BREVE...)
+1. [Comandos Httparty](https://github.com/amaxsilva/Automacao_Ruby/blob/master/tests/Httparty/comandos_httparty.md);
 
 ## Mobile:
 
