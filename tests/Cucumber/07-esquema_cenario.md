@@ -6,7 +6,10 @@ Copiar e colar cenários para usar diferentes valores rapidamente torna-se tedio
 Cenário : coma 5 em 12 
   Dado que existem 12 pepinos
    Quando eu como 5 pepinos
-   Então eu deveria ter 7 pepinos Cenário : comer 5 de 20 Dado que há 20 pepinos
+   Então eu deveria ter 7 pepinos
+   
+   Cenário : comer 5 de 20 
+   Dado que há 20 pepinos
    Quando eu comer 5 pepinos
    Então eu deveria ter 15 Pepinos
 ```
@@ -15,7 +18,7 @@ Os esquema do cenário nos permitem expressar de forma mais concisa esses exempl
 
 ```
 Esquema do Cenário: Comer 
-  Dado que existem <início> pepinos
+   Dado que existem <início> pepinos
    Quando eu comer <comer> pepinos
    Então eu deveria ter <left> Pepinos 
    
@@ -44,7 +47,7 @@ Então, ao executar a primeira linha do nosso exemplo:
 
 ```
 Exemplos :
-   | Comece | coma | esquerda | 
+   | start  | coma | esquerda | 
    |  12    |  5   |  7       |
 ```
 
@@ -54,7 +57,7 @@ O cenário que realmente é executado é:
 Cenário Destaque : comer 
   Dado que há 12 pepinos       # <start> substituídos por 12 
   Quando eu como 5 pepinos             # <comer> substituído por 5 
-  Então eu deveria ter 7 pepinos     # <à esquerda> substituídos por 7
+  Então eu deveria ter 7 pepinos     # <esquerda> substituídos por 7
   ```
   
 ## Referências:
